@@ -1,0 +1,67 @@
+body{
+    background: #d2d2c1;
+    font: 16px Arial, Helvetica, sans-serif;
+}
+
+
+#principal {
+
+    width: 1000px;
+    
+}
+
+#menu {
+    background-color: #465e81;
+    padding: 20px;
+}
+#sobre_mim {
+    background-color: rgb(240, 241, 241);
+    padding: 10px;
+}
+
+#nike {
+    background-color: rgb(240, 241, 241);
+    padding: 10px;
+}
+
+#Heineken {
+    background-color: rgb(240, 241, 241);
+    padding: 10px;
+}
+
+#itau {
+
+    background-color: rgb(240, 241, 241);
+    padding: 10px;
+}
+
+#semantix {
+
+    background-color: rgb(240, 241, 241);
+    padding: 10px;
+
+}
+
+#claro {
+
+    background-color: rgb(240, 241, 241);
+    padding: 10px; 
+}
+
+#serasa {
+
+    background-color: rgb(240, 241, 241);
+    padding: 10px; 
+}
+
+.alinhamento {
+    text-align: center;
+}
+
+
+a {
+    color: #d2d2c1;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 10px;
+}
